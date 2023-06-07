@@ -1299,17 +1299,17 @@ source = "crates"
 categories = ["ai"]
 
 [[items]]
-name = "stick"
-source = "crates"
-categories = ["input"]
-
-[[items]]
 name = "stereokit"
 categories = ["engines", "vr"]
 description = "Bindings to StereoKit: an easy-to-use Mixed Realty engine, designed for creating VR, AR, and XR experiences"
 crate_url = "https://crates.io/crates/stereokit"
 repository_url = "https://github.com/MalekiRe/stereokit-rs"
 homepage_url = "https://stereokit.net/"
+
+[[items]]
+name = "stick"
+source = "crates"
+categories = ["input"]
 
 [[items]]
 name = "superluminal-perf"
